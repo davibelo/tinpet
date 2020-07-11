@@ -168,7 +168,7 @@ width: 15%;
 
 /* Media Query */
 
-@media (max-width: 1000px) {
+@media (max-width: 750px) {
 
     #navbar-title-section {
       text-align: center;
